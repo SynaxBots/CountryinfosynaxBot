@@ -37,7 +37,7 @@
 
 
 
-## TELAGRAM SUPPORT 
+## TELEGRAM SUPPORT 
 
 * [![SYNAX SUPPORT](https://img.shields.io/static/v1?label=SYNAX&message=SUPPORT&color=critical)](https://t.me/synaxchatgroup)
 
