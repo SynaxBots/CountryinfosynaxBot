@@ -9,7 +9,13 @@
   <img src="https://graph.org/file/28f8684fed8391f43dea5.jpg">
 </p>
 
-
+<p align="center">
+<a href="https://github.com/SynaxBots/StringGenv1Bot/stargazers"><img src="https://img.shields.io/github/stars/SynaxBots/StringGenv1Bot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/SynaxBots/StringGenv1Bot/network/members"> <img src="https://img.shields.io/github/forks/SynaxBots/StringGenv1Bot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/SynaxBots/StringGenv1Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
+<a href="https://github.com/SynaxBots/StringGenv1Bot/commits/SynaxBots"> <img src="https://img.shields.io/github/last-commit/SynaxBots/StringGenv1Bot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+</p>
 
 # Country Information Bot
 A country information finder telegram bot
