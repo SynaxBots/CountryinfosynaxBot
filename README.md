@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗜𝗡𝗙𝗢+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗦𝗬𝗡𝗔𝗫+𝗕𝗢𝗧𝗦™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗧𝗥𝗔𝗡𝗦𝗟𝗔𝗧𝗢𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗖𝗢𝗨𝗡𝗧𝗥𝗬𝗜𝗡𝗙𝗢+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗦𝗬𝗡𝗔𝗫+𝗕𝗢𝗧𝗦™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗧𝗥𝗔𝗡𝗦𝗟𝗔𝗧𝗢𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 
