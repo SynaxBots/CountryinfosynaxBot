@@ -17,15 +17,20 @@
 <a href="https://github.com/SynaxBots/CountryinfosynaxBot/commits/SynaxBots"> <img src="https://img.shields.io/github/last-commit/SynaxBots/CountryinfosynaxBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
 
-# Country Information Bot
-A country information finder telegram bot
+<details>
+<summary><b>Features</b></summary>
 
----
+- [x] Find All Country Information
+</details>
 
-## Variables
+<details>
+<summary><b>Variables</b></summary>
+  
+### Required Variables
+* `API_HASH` Your API Hash from my.telegram.org
+* `API_ID` Your API ID from my.telegram.org
+* `BOT_TOKEN` Your bot token from @BotFather
 
-- `API_HASH` Your API Hash from my.telegram.org
-- `API_ID` Your API ID from my.telegram.org
-- `BOT_TOKEN` Your bot token from @BotFather
 
----
+
+
