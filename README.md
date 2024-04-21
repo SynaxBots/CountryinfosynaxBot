@@ -2,7 +2,7 @@
 <p align="center">
 
 <h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 Cᴏᴜɴᴛʀʏ Iɴғᴏ Bᴏᴛ 」──
 </h2>
 
 <p align="center">
