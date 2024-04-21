@@ -31,6 +31,32 @@
 * `API_ID` Your API ID from my.telegram.org
 * `BOT_TOKEN` Your bot token from @BotFather
 
+<details>
+<summary><b>Basic Commands</b></summary>
+```
+start - check bot alive
+help - get help 
+about - to get Developer information
+```
+</details>
+
+## TELAGRAM SUPPORT 
+
+* [![SYNAX SUPPORT](https://img.shields.io/static/v1?label=SYNAX&message=SUPPORT&color=critical)](https://t.me/synaxchatgroup)
+
+## Credit 💞
+
+* [![SYNAX BOTS](https://img.shields.io/static/v1?label=SYNAX&message=BOTS&color=yellow)](https://t.me/synaxbots)
+
+* [![SYNAX NETWORK](https://img.shields.io/static/v1?label=SYNAX&message=NETWORK&color=green)](https://t.me/synaxnetwork)
+
+
+## Disclaimer
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 2.0.](https://github.com/SynaxBots/CountryinfosynaxBot/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+
 
 
 
