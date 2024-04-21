@@ -31,15 +31,6 @@
 * `API_ID` Your API ID from my.telegram.org
 * `BOT_TOKEN` Your bot token from @BotFather
 
-<details>
-<summary><b>Basic Commands</b></summary>
-```
-start - check bot alive
-help - get help 
-about - to get Developer information
-```
-</details>
-
 ## TELAGRAM SUPPORT 
 
 * [![SYNAX SUPPORT](https://img.shields.io/static/v1?label=SYNAX&message=SUPPORT&color=critical)](https://t.me/synaxchatgroup)
